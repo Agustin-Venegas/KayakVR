@@ -6,11 +6,50 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Colbun.unity
+    guid: 7453cc04580bb434ba07064811497ba3
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 13f6f87036926f94ab0417ca1b31725c
   - enabled: 0
     path: Assets/Scenes/BasicScene.unity
     guid: bc761d9a86b33554f85fd11bb1f87ba3
+  - enabled: 1
+    path: Assets/Gaia User Data/Sessions/GS-20250505 - 153547/Terrain Scenes/Terrain_0_0-20250505
+      - 153619.unity
+    guid: 46552aa5918345742a69ea625d223da3
+  - enabled: 1
+    path: Assets/Gaia User Data/Sessions/GS-20250505 - 153547/Terrain Scenes/Terrain_0_1-20250505
+      - 153619.unity
+    guid: 5f423d85f905df548b3ca04ce17f9a30
+  - enabled: 1
+    path: Assets/Gaia User Data/Sessions/GS-20250505 - 153547/Terrain Scenes/Terrain_0_2-20250505
+      - 153619.unity
+    guid: 3b91b91c5ed3da849bd384a1bfe08243
+  - enabled: 1
+    path: Assets/Gaia User Data/Sessions/GS-20250505 - 153547/Terrain Scenes/Terrain_1_0-20250505
+      - 153619.unity
+    guid: 35c620092344deb4cacf570fc6d7b9da
+  - enabled: 1
+    path: Assets/Gaia User Data/Sessions/GS-20250505 - 153547/Terrain Scenes/Terrain_1_1-20250505
+      - 153619.unity
+    guid: 8f43928c866477344815628eb3b9ecf6
+  - enabled: 1
+    path: Assets/Gaia User Data/Sessions/GS-20250505 - 153547/Terrain Scenes/Terrain_1_2-20250505
+      - 153619.unity
+    guid: ef34202910b168845b6b96c3ef949244
+  - enabled: 1
+    path: Assets/Gaia User Data/Sessions/GS-20250505 - 153547/Terrain Scenes/Terrain_2_0-20250505
+      - 153619.unity
+    guid: 83413087eb0ab7a499d1ff02ce8a78ed
+  - enabled: 1
+    path: Assets/Gaia User Data/Sessions/GS-20250505 - 153547/Terrain Scenes/Terrain_2_1-20250505
+      - 153619.unity
+    guid: a679a44250009114e9548494a8baaad7
+  - enabled: 1
+    path: Assets/Gaia User Data/Sessions/GS-20250505 - 153547/Terrain Scenes/Terrain_2_2-20250505
+      - 153619.unity
+    guid: ad71fe56af3541b4c8f5d9fb59e9a4ed
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e3aee76b9372917449aef639e2f74814,
       type: 2}

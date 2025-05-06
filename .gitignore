@@ -72,4 +72,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 /[Aa]ssets/Procedural Worlds/*
+/[Aa]ssets/Gaia\ User\ Data/Sessions/*
 /[Aa]ssets/AutoHand/*
