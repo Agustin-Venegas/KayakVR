@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/TestingGrounds.unity
+    guid: 832e8be72e9e6ce418edc937fc686e09
+  - enabled: 1
     path: Assets/Scenes/Colbun.unity
     guid: 7453cc04580bb434ba07064811497ba3
   - enabled: 1

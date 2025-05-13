@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_unfolded: 1
   m_isActive: 1
-  m_helpEnabled: 0
+  m_helpEnabled: 1
   m_orderNumber: 200
   m_VRShaderInitialized: 1
   m_useVRWaterShader: 1
