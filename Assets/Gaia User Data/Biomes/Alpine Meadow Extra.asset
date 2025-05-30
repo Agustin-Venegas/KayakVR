@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf996bd940696a4b814912e16c3d5ac, type: 3}
+  m_Name: Alpine Meadow Extra
+  m_EditorClassIdentifier: 
+  m_orderNumber: 0
+  m_spawnerPresetList:
+  - m_autoAssignPrototypes: 1
+    m_spawnerSettings: {fileID: 11400000, guid: 37d4ef5ef1dcf75458656f150edb22c5,
+      type: 2}
+    m_isActiveInStamper: 0
+    m_isActiveInBiome: 1
+  - m_autoAssignPrototypes: 1
+    m_spawnerSettings: {fileID: 11400000, guid: f16550ff50c239544bae1f180b60b47f,
+      type: 2}
+    m_isActiveInStamper: 0
+    m_isActiveInBiome: 0
+  - m_autoAssignPrototypes: 1
+    m_spawnerSettings: {fileID: 11400000, guid: eaa9c42087fab494c9f5ebff85fecb4f,
+      type: 2}
+    m_isActiveInStamper: 0
+    m_isActiveInBiome: 0
+  - m_autoAssignPrototypes: 1
+    m_spawnerSettings: {fileID: 11400000, guid: 4a21b837eafed0a47b3e827e5bb9ed5b,
+      type: 2}
+    m_isActiveInStamper: 0
+    m_isActiveInBiome: 0
+  - m_autoAssignPrototypes: 1
+    m_spawnerSettings: {fileID: 11400000, guid: 6a347cbaaed6ffa4e8a21c8795498eba,
+      type: 2}
+    m_isActiveInStamper: 0
+    m_isActiveInBiome: 1
+  - m_autoAssignPrototypes: 1
+    m_spawnerSettings: {fileID: 11400000, guid: 10cc323279665cf44a8ceff535dd60d7,
+      type: 2}
+    m_isActiveInStamper: 0
+    m_isActiveInBiome: 0
+  - m_autoAssignPrototypes: 1
+    m_spawnerSettings: {fileID: 11400000, guid: 779385ea6f58ca846b330923cd70e3a3,
+      type: 2}
+    m_isActiveInStamper: 0
+    m_isActiveInBiome: 0
+  - m_autoAssignPrototypes: 1
+    m_spawnerSettings: {fileID: 11400000, guid: 6707d842ad1c6504b899ce766f779ccb,
+      type: 2}
+    m_isActiveInStamper: 0
+    m_isActiveInBiome: 0
+  - m_autoAssignPrototypes: 1
+    m_spawnerSettings: {fileID: 11400000, guid: 3c649dee9b12ea949981ecc8d14e30d9,
+      type: 2}
+    m_isActiveInStamper: 0
+    m_isActiveInBiome: 0
+  - m_autoAssignPrototypes: 1
+    m_spawnerSettings: {fileID: 11400000, guid: 00207579f8ac5224fba649a82489c6c1,
+      type: 2}
+    m_isActiveInStamper: 0
+    m_isActiveInBiome: 0
+  - m_autoAssignPrototypes: 1
+    m_spawnerSettings: {fileID: 11400000, guid: 49a7d1bfaeaffd8469c7442a10c30e2d,
+      type: 2}
+    m_isActiveInStamper: 0
+    m_isActiveInBiome: 0
+  m_biomeControllerSettings: {fileID: 4161674814516545}
+  m_postProcessingProfileGUID: 
+  m_gaiaSceneCullingProfile: {fileID: 0}
+--- !u!114 &4161674814516545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b6d2ca1100d734aaa40e6410ad3214, type: 3}
+  m_Name: Alpine Meadow Biome(Clone)
+  m_EditorClassIdentifier: 
+  m_x: 0
+  m_y: 27.884514
+  m_z: 512
+  m_range: 512
+  m_postProcessBlenddDistance: 0
+  m_visualisationColor: {r: 0, g: 0.9098299, b: 1, a: 1}
+  m_removeForeignGameObjects: 0
+  m_removeForeignGameObjectStrength: 0.2
+  m_removeForeignTrees: 0
+  m_removeForeignTreesStrength: 0.2
+  m_removeForeignTerrainDetails: 0
+  m_removeForeignTerrainDetailsStrength: 0.2
+  imageMasks: []
+  m_lastSavePath: Assets/Gaia User Data/Biomes/Alpine Meadow Extra.asset
+  m_clearSpawnsToggleTrees: 0
+  m_clearSpawnsToggleDetails: 0
+  m_clearSpawnsToggleGOs: 0
+  m_clearSpawnsToggleSpawnExtensions: 0
+  m_clearSpawnsToggleProbes: 0
+  m_clearSpawnsFor: 0
+  m_clearSpawnsFrom: 0
